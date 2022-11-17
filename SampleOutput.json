@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "HT Sports Desk",
+            "title": "Watch: Dravid consoles teary-eyed Rohit in heartbreaking scenes after India loss - Hindustan Times",
+            "description": "Rohit Sharma, who was made the captain of the Indian team with the eye on the T20 World Cup, was left teary-eyed after the team crashed out, before he was consoled by head coach Rahul Dravid. | Cricket",
+            "url": "https://www.hindustantimes.com/cricket/watch-rahul-dravid-consoles-teary-eyed-rohit-sharma-in-heartbreaking-scenes-after-india-crash-out-of-t20-world-cup-101668078956051.html",
+            "urlToImage": "https://images.hindustantimes.com/img/2022/11/10/1600x900/New_Project_-_2022-11-10T164424798_1668078992132_1668078992298_1668078992298.jpg",
+            "publishedAt": "2022-11-10T11:46:30Z",
+            "content": "England openers Jos Buttler and Alex Hales put on an authoritative show at the Adelaide Oval on Thursday as they crushed India by 10 wickets to book their seats in the final of the T20 World Cup. Ind… [+1554 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": null,
+            "title": "Ravindra Jadeja Thanks PM After Wife Picked As Gujarat BJP Candidate - NDTV",
+            "description": "Indian cricket star Ravindra Jadeja today congratulated wife Rivaba on being picked as a BJP candidate for the upcoming Gujarat elections and thanked Prime Minister Narendra Modi and Home Minister Amit Shah for giving her the opportunity.",
+            "url": "https://www.ndtv.com/india-news/ravindra-jadeja-thanks-pm-after-wife-picked-as-gujarat-bjp-candidate-3507347",
+            "urlToImage": "https://c.ndtvimg.com/2022-11/55obil6_ravindra-jadeja-wife-_625x300_10_November_22.jpg",
+            "publishedAt": "2022-11-10T09:08:40Z",
+            "content": "Ravindra Jadeja congratulated wife Rivaba and wished her the best for the poll contest\r\nIndian cricket star Ravindra Jadeja today congratulated wife Rivaba on being picked as a BJP candidate for the … [+1511 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": "NDTV Sports Desk",
+            "title": "Wasim Jaffer Trolls Ex Pakistan Star Over Dig After Babar Azam-led Side's T20 World Cup Final Entry - NDTV Sports",
+            "description": "Former Pakistan cricketer Imran Nazir took the opportunity to troll former India batter Wasim Jaffer. He tagged Jaffer in a tweet with a photo of Amitabh Bachchan after Pakistan's entry into the final.",
+            "url": "https://sports.ndtv.com/t20-world-cup-2022/wasim-jaffer-trolls-ex-pakistan-star-over-dig-after-babar-azam-led-sides-t20-world-cup-final-entry-3506606",
+            "urlToImage": "https://c.ndtvimg.com/2022-06/4ge4d5cg_wasim-jaffer_625x300_21_June_22.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=675",
+            "publishedAt": "2022-11-10T05:07:37Z",
+            "content": "Pakistan's easy win over New Zealand in the first semi-final of the 2022 T20 World Cup on Wednesday was lauded by several former cricketers. Imran Khan, Irfan Pathan, Ian Bishop and others wished the… [+1693 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "HT Sports Desk",
+            "title": "Ramiz Raja aims cheeky dig at WC teams after Pakistan thrash NZ to enter final - Hindustan Times",
+            "description": "Pakistan Cricket Board (PCB) president Ramiz Raja has come up with a noteworthy statement after Babar Azam-led Pakistan outclassed New Zealand to enter the T20 World Cup final on Wednesday. | Cricket",
+            "url": "https://www.hindustantimes.com/cricket/ramiz-raja-pcb-chief-aims-cheeky-dig-at-t20-world-cup-2022-teams-after-babar-azam-pakistan-thrash-new-zealand-kane-williamson-to-enter-wc-final-mcg-101668048471627.html",
+            "urlToImage": "https://images.hindustantimes.com/img/2022/11/10/1600x900/Collage_Maker-10-Nov-2022-0905-AM_1668051372984_1668051373129_1668051373129.jpg",
+            "publishedAt": "2022-11-10T03:38:49Z",
+            "content": "Continuing their rollercoaster ride in the 2022 edition of the T20 World Cup on Wednesday, Babar Azam-led Pakistan registered a flawless win over Kane Williamson and Co. to enter the final of the sho… [+1919 chars]"
+        }
+    ]
+}
